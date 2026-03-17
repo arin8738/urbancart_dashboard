@@ -75,6 +75,10 @@ The dataset includes:
 - Gained experience in real-world retail analytics  
 
 ---
+## 👤 Author
+
+**Riyad Shikdar Arin**  
+Aspiring Data Analyst | PowerBI | DAX | Excel 
 
 ## 🙌 Feedback & Support
 

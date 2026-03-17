@@ -3,6 +3,9 @@
 An interactive **Power BI dashboard** built using UrbanCart grocery data to analyze sales performance, customer behavior, and outlet insights.
 
 ---
+## 📷 Dashboard Preview
+
+![Dashboard Preview](urbanchart_img.png)
 
 ## 📊 Project Overview
 
@@ -46,12 +49,6 @@ The dashboard helps stakeholders understand sales trends, product performance, a
 - **DAX (Data Analysis Expressions)**  
 - **Data Cleaning & Transformation**  
 - **Data Visualization**
-
----
-
-## 📷 Dashboard Preview
-
-![Dashboard Preview](urbanchart_img.png)
 
 ---
 

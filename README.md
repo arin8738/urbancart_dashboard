@@ -51,7 +51,7 @@ The dashboard helps stakeholders understand sales trends, product performance, a
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](image/urbanchart_img.png)
+![Dashboard Preview](urbanchart_img.png)
 
 ---
 
